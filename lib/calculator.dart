@@ -31,7 +31,7 @@ class _CalcState extends State<Calc> {
           ),
           centerTitle: true,
           elevation: 10,
-          shadowColor: Colors.grey,
+          shadowColor: Colors.grey.shade100,
         ),
         body: Center(
           child: Column(
